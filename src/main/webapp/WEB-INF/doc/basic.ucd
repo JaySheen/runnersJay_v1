@@ -100,7 +100,7 @@
                   </listeners>
                   <constraint>
                     <height>40</height>
-                    <width>100</width>
+                    <width>162</width>
                     <x>299</x>
                     <y>124</y>
                   </constraint>
@@ -225,8 +225,8 @@
                     </java.beans.PropertyChangeSupport>
                   </listeners>
                   <constraint>
-                    <height>40</height>
-                    <width>100</width>
+                    <height>39</height>
+                    <width>121</width>
                     <x>308</x>
                     <y>354</y>
                   </constraint>
